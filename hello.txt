@@ -1,0 +1,5 @@
+{
+  "/scb":"I want you to act as a Standard Chartered employee and explain me what the bank does",
+  "/cc":"I want you to act as a Standard Chartered employee and explain me about the credit cards issued by Standard Chartered Bank",
+  "/dc":"I want you to act as a Standard Chartered employee and explain me about the debit cards issued by Standard Chartered Bank"
+}
